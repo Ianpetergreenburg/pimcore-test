@@ -15,7 +15,7 @@ return [
         "defaultLanguage" => "",
         "loginscreencustomimage" => "",
         "disableusagestatistics" => FALSE,
-        "debug_admin_translations" => FALSE,
+        "debug_admin_translations" => TRUE,
         "devmode" => FALSE,
         "instanceIdentifier" => "",
         "show_cookie_notice" => FALSE
