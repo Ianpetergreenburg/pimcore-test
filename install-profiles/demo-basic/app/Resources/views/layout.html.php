@@ -44,7 +44,7 @@ use Pimcore\Model\Document\Page;
         $this->headMeta()->setDescription($document->getDescription());
     }
 
-    $this->headTitle()->append("pimcore Demo");
+    $this->headTitle()->append("pimcore is a Demo");
     $this->headTitle()->setSeparator(" : ");
 
     echo $this->headTitle();
