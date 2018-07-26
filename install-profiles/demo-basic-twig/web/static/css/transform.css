@@ -1,0 +1,42 @@
+#navbar-transform {
+  background: -webkit-linear-gradient(left, #ff1049 250px,#ffffff 350px,#ffffff 87%);
+  border: none;
+}
+
+#navbar-transform .navbar-nav > li > a {
+    color: #4B4B4B;
+}
+
+#navbar-transform .navbar-nav > .active > a,
+#navbar-transform .navbar-nav > .open > a,
+#navbar-transform .navbar-nav > .open > a:hover,
+#navbar-transform .navbar-nav > .open > a:focus {
+  background-color: #ff1049;
+  color: white;
+}
+
+#navbar-transform .dropdown-menu > li > a:hover {
+  background-color: rgba(255,16,73, .1)
+}
+
+#navbar-transform .navbar-toggle {
+  border-color: #CB0C3B;
+}
+
+#navbar-transform .navbar-toggle:hover, #navbar-transform .navbar-toggle:focus {
+  border-color: #CB0C3B;
+  background-color: #ff1049;
+}
+
+#navbar-transform .navbar-toggle .icon-bar {
+  background-color: #ff1049;
+}
+
+#navbar-transform .navbar-toggle:hover .icon-bar, #navbar-transform .navbar-toggle:focus .icon-bar {
+  background-color: #FFF;
+}
+
+
+#transform-gradient {
+  background: linear-gradient(45deg, #63041F 0%, #CB0C3B 100%);
+}
