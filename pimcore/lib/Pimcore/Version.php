@@ -19,17 +19,17 @@ class Version
     /**
      * @var string
      */
-    public static $version = '5.3.0';
+    public static $version = '5.3.1';
 
     /**
      * @var int
      */
-    public static $revision = 290;
+    public static $revision = 294;
 
     /**
      * @var string
      */
-    public static $buildDate = '2018-07-20T15:53:57+02:00';
+    public static $buildDate = '2018-07-26T09:24:04+02:00';
 
     /**
      * @return string
